@@ -1,1 +1,1 @@
-[![eishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eishisaito)](https://github.com/anuraghazra/github-readme-stats)
+[![eishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eishisaito&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
